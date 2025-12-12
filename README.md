@@ -43,6 +43,7 @@ I'm Samuele, a 18 years old student from Italy. Jump in my GitHub profile!
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ghidra-161616?logo=ghidra&logoColor=white"/>
 </p>
 
 ### Embedded & IoT
