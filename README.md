@@ -1,4 +1,5 @@
-<img width="100%" alt="gh_header" src="https://github.com/user-attachments/assets/efd00b5b-99a6-4c81-848d-dc9dbb9f1fc3"/>
+<img width="100%" alt="gh_header" src="https://github.com/user-attachments/assets/ae1a80d6-14c6-4032-b516-725c391beedd"/>
+
 
 <h1 align="center">Hey there 👋</h1>
 
