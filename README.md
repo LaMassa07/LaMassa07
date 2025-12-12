@@ -3,6 +3,7 @@
 
 <h1 align="center">Hey there 👋</h1>
 
+I'm Samuele, an 18 years old student from Italy. Jump in my GitHub profile!
 
 ![GitHub followers](https://img.shields.io/github/followers/LaMassa07?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/LaMassa07?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LaMassa07.repoName) <img src="https://komarev.com/ghpvc/?username=LaMassa07" alt="LaMassa07" />
 
