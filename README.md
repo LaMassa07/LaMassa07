@@ -11,7 +11,6 @@ I'm Samuele, a 19 years old student from Italy. Jump in my GitHub profile!
 
 - 🏡 Living in **Italy**
 - 🎓 Graduated in **Computer Science and Telecommunications**, studying **Cybersecurity**
-- 🔐 Passionate about **Cybersecurity**
 - 🎹 I play the **piano**
 - 🏋️‍♂️⛰️ I enjoy going to the **gym** and **hiking**
 
